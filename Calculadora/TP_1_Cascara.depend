@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1491514525 source:c:\users\arielskap\downloads\tp1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1457052376 c:\users\arielskap\downloads\tp1\tp_1_cascara\funciones.h
+
+1491589191 source:c:\users\arielskap\desktop\tp universidad\tp_1_cascara\herramientas.c
+	<stdio.h>
+	<stdlib.h>
+
+1491589702 source:c:\users\arielskap\desktop\tp universidad\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491589433 c:\users\arielskap\desktop\tp universidad\tp_1_cascara\funciones.h
+
+1504832677 source:c:\users\arielskap\desktop\nueva carpeta (2)\tp_laboratorio_1-master\tp1 villarreal ariel 1-a\herramientas.c
+	<stdio.h>
+	<stdlib.h>
+
+1504833635 source:c:\users\arielskap\desktop\nueva carpeta (2)\tp_laboratorio_1-master\tp1 villarreal ariel 1-a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504829584 c:\users\arielskap\desktop\nueva carpeta (2)\tp_laboratorio_1-master\tp1 villarreal ariel 1-a\funciones.h
+
+1540850785 source:c:\users\santiago\documents\programacion\c\todos los tps\tp_laboratorio_1-master\tp1 villarreal ariel 1-a\herramientas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1540827093 source:c:\users\santiago\documents\programacion\c\todos los tps\tp_laboratorio_1-master\tp1 villarreal ariel 1-a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1540850778 c:\users\santiago\documents\programacion\c\todos los tps\tp_laboratorio_1-master\tp1 villarreal ariel 1-a\funciones.h
+
+1540850785 source:c:\users\santiago\desktop\c trabajo\calculadora\herramientas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1540827093 source:c:\users\santiago\desktop\c trabajo\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1540850778 c:\users\santiago\desktop\c trabajo\calculadora\funciones.h
+
