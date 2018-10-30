@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1508278374 source:c:\users\arielskap\downloads\nueva carpeta\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1508278690 c:\users\arielskap\downloads\nueva carpeta\tp_3_cascara\funciones.h
+
+1508278609 source:c:\users\arielskap\downloads\nueva carpeta\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1508543355 source:c:\users\arielskap\desktop\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508542772 c:\users\arielskap\desktop\tp_3_cascara\funciones.h
+
+1508543690 source:c:\users\arielskap\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508765020 source:c:\users\alumno\desktop\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508762206 c:\users\alumno\desktop\tp_3_cascara\funciones.h
+
+1508765020 source:c:\users\alumno\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508765564 source:f:\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508762208 f:\tp_3_cascara\funciones.h
+
+1508765564 source:f:\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508778160 source:e:\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508762208 e:\tp_3_cascara\funciones.h
+
+1508778196 source:e:\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508785904 source:c:\users\arielskap\desktop\tp_3_cascara - sin archivos ni memoria dinamica\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508785904 c:\users\arielskap\desktop\tp_3_cascara - sin archivos ni memoria dinamica\funciones.h
+
+1508785904 source:c:\users\arielskap\desktop\tp_3_cascara - sin archivos ni memoria dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508787202 source:c:\users\arielskap\desktop\tp_3_cascara - sin archivos ni memoria dinamica - copia\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508786116 c:\users\arielskap\desktop\tp_3_cascara - sin archivos ni memoria dinamica - copia\funciones.h
+
+1508786949 source:c:\users\arielskap\desktop\tp_3_cascara - sin archivos ni memoria dinamica - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508799870 source:c:\users\arielskap\desktop\tp_3_cascara - sin archivos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508799870 c:\users\arielskap\desktop\tp_3_cascara - sin archivos\funciones.h
+
+1508799953 source:c:\users\arielskap\desktop\tp_3_cascara - sin archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1508800211 source:c:\users\santiago\desktop\c trabajo\tp3 villarreal ariel 1-a\tp3 villarreal ariel 1-a sin archivos con memoria dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1540909012 c:\users\santiago\desktop\c trabajo\tp3 villarreal ariel 1-a\tp3 villarreal ariel 1-a sin archivos con memoria dinamica\funciones.h
+
+1540909961 source:c:\users\santiago\desktop\c trabajo\tp3 villarreal ariel 1-a\tp3 villarreal ariel 1-a sin archivos con memoria dinamica\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
